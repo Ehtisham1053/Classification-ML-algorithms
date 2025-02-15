@@ -86,3 +86,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 
 
+## Contact
+For any inquiries or collaboration, please reach out to https://github.com/Ehtisham1053.
+
